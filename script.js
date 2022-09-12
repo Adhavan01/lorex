@@ -70,11 +70,11 @@ min.addEventListener('click',()=>{
     console.log(a);
 })
 
-//preload
-const preload = document.querySelector(".preloder")
-window.addEventListener("load",function(){
-    preload.style.display="none";
-})
+// //preload
+// const preload = document.querySelector(".preloder")
+// window.addEventListener("load",function(){
+//     preload.style.display="none";
+// })
 
 //pack_button
 var header= document.getElementById("packBtn")
